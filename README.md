@@ -10,4 +10,4 @@ It’s a website that helps business in managing their client's data and also he
 •	The user can see all the specific details of the client's on a detailed page and also they can update the amount the client owes to them in a single click.<br/>
 •	The user can also delete the client's data permanently from their database.<br/>
 
-## Build on: React Js, Redux, Firebase.
+## Built on: React Js, Redux, Firebase.
